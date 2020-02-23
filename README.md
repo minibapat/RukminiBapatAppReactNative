@@ -1,2 +1,1 @@
-# RukminiBapatAppReactNative
-React Native app
+# RukminiBapatReactNativeApp
